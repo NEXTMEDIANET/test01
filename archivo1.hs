@@ -1,5 +1,4 @@
-enteros :: Int
-enteros = iterate (+1) 0
+enteros 
 
 enteros :: Int
 enteros = iterate (+1) 0
